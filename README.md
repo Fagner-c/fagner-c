@@ -1,5 +1,5 @@
 ### Oii! eu sou o Fagner Cardoso
-
+![Snake animation]https://github.com/Fagner-c
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=fagner-c&show_icons=true&theme=dark"
