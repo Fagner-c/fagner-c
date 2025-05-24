@@ -24,7 +24,7 @@
  ### My skills
 
  
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Python]([https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000))&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 
