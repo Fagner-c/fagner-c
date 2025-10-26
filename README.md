@@ -5,7 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fagner-c&bg_color==0d1117&color=483D8B&line=483D8B&point=0000CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fagner-c&theme=Rainglow&row=2&no-bg=true&column=3&margin-w=15&margin-h=17" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fagner-c&theme=Rainglow&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
